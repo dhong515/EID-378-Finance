@@ -1,1 +1,0 @@
-This was an optional introductory assignment for the EID-378 Finance course which was designed to familiarize students (especially those who had minimal programming experience in Python) with working with Pandas Dataframes in Python3.
